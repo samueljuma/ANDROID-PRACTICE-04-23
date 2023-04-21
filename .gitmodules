@@ -1,0 +1,6 @@
+[submodule "GreetingsApp"]
+	path = GreetingsApp
+	url = https://github.com/samueljuma/GreetingsApp.git
+[submodule "CounterApp"]
+	path = CounterApp
+	url = https://github.com/samueljuma/CounterApp.git
